@@ -1,4 +1,4 @@
-pretix
+Davetix
 ======
 
 .. image:: https://img.shields.io/pypi/v/pretix.svg
