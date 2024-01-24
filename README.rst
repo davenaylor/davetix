@@ -14,7 +14,7 @@ Davetix
 
 
 
-Reinventing ticket presales, one ticket at a time.
+A fork of Pretix
 
 Project status & release cycle
 ------------------------------
